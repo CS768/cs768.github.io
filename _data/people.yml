@@ -1,0 +1,17 @@
+instructors:
+  - name: Albus Dumbledore
+    profile_pic: assets/img/random-graph.png
+    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
+
+teaching_assistants:
+  - name: Harry Potter
+    profile_pic: assets/img/random-graph.png
+    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+
+  - name: Hermione Granger
+    profile_pic: assets/img/random-graph.png
+    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+
+  - name: Ron Weasley
+    profile_pic: assets/img/random-graph.png
+    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
